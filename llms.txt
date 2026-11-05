@@ -1,0 +1,26 @@
+# Vigor Peak
+
+> Vigor Peak is a General Wellness Supplement. Vigor Peak is a premium wellness supplement manufactured in the United States, featuring a carefully curated blend of ingredients sourced from various parts of the world. Designed to support overall vitality and daily performance, Vigor Peak combines globally inspired components in a single, convenient formula. Whether you're looking to maintain energy levels, support physical endurance, or simply complement a healthy lifestyle, Vigor Peak offers a straightforward addition to your routine. Its innovative formulation reflects a commitment to quality and potency, making it a reliable choice for those seeking a natural edge in their wellness journey.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://vigorpeak.onrender.com/)
+- [What Vigor Peak is](https://vigorpeak.onrender.com/what-is-product.html)
+- [How Vigor Peak works](https://vigorpeak.onrender.com/how-it-works.html)
+- [Vigor Peak ingredients, explained individually](https://vigorpeak.onrender.com/ingredients.html)
+- [Vigor Peak benefits](https://vigorpeak.onrender.com/benefits.html)
+- [Vigor Peak customer reviews](https://vigorpeak.onrender.com/reviews.html)
+- [Vigor Peak frequently asked questions](https://vigorpeak.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying Vigor Peak](https://vigorpeak.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at Vigor Peak — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://vigorpeak.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using Vigor Peak's own label as a real example of what to look for.
+- [Vigor Peak: An Honest Review](https://vigorpeak.onrender.com/blog/vigor-peak-honest-review.html): An honest look at Vigor Peak — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Ashwagandha vs Ginseng: What Each Does In Vigor Peak](https://vigorpeak.onrender.com/blog/ashwagandha-vs-ginseng.html): Ashwagandha and Ginseng are both in Vigor Peak but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement Vigor Peak](https://vigorpeak.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with Vigor Peak as part of a general wellness routine.
+- [Vigor Peak FAQ: Dosage, Timing, Who Should Skip It](https://vigorpeak.onrender.com/blog/vigor-peak-faq.html): Common questions about Vigor Peak — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://vigorpeak.onrender.com/terms.html)
+- [Privacy Policy](https://vigorpeak.onrender.com/privacy-policy.html)
+- [Disclaimer](https://vigorpeak.onrender.com/disclaimer.html)
+- [Refund Policy](https://vigorpeak.onrender.com/refund-policy.html)
+- [About Us](https://vigorpeak.onrender.com/about.html)
+- [Contact Us](https://vigorpeak.onrender.com/contact.html)

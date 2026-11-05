@@ -1,2 +1,0 @@
-# vigorpeak
-Static site
